@@ -1,0 +1,10 @@
+mcfsParams.splits = 5;
+mcfsParams.projections = 5000;
+mcfsParams.projectionSize = 0.05f;
+mcfsParams.splitRatio = 0.66f;
+mcfsParams.balanceClasses = false;
+mcfsParams.balanceRatio = 3;
+mcfsParams.splitSetSizeLimit = false;
+mcfsParams.splitSetSize = 0;
+mcfsParams.cutPointRuns = 30;
+
